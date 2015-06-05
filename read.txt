@@ -1,0 +1,15 @@
+
+1，在自己的根目录下面装，
+例如：/Users/lideqiang/   创建vim .vimrc 
+然后复制github中的常用的javascript 脚本 vimrc配置文件
+
+2，然后执行 sudo vim  i
+
+3，在进行安装过程中发现了许多错误，没有关系
+
+4，还需要安装vim_bug ，首先要安装 brew install python
+
+5，然后，pip install vim_debug
+
+
+mac 上面路径：cd /usr/share/vim/vim73/color/ 装的是vim的字体
