@@ -34,6 +34,7 @@ set incsearch
 set hlsearch
 set backspace=indent,eol,start
 set bs=2
+set encoding=utf-8
 syntax on
 set nu
 function! CtrlPWithSearchText(search_text, ctrlp_command_end)
